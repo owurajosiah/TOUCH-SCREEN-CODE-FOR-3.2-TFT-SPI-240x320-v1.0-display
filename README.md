@@ -39,3 +39,7 @@ VCC to 5v
 
 
 TOUCH_CS to Pin 5 // Chip select pin (T_CS) of touch screen
+
+
+
+In the code change " #define REPEAT_CAL true " to " #define REPEAT_CAL false "   to run the touch calibration once
